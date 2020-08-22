@@ -6,7 +6,7 @@ Simple chat app developed in Flutter/Dart using Firebase services.
 TO WHOM IT IS INTENDED / OBJECTIVE?
 I developed this app for practice purpose, it is intended to create chat rooms between two users that are registered in the app.
 
-LIBRABRIES USED
+LIBRABRIES USED?
 I imported some libraries of Firebase to deal with the manipulation of the user accounts and messages transactions.
  firebase_auth;
  cloud_firestore;
