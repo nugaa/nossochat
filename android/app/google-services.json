@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365985257848",
+    "firebase_url": "https://nossochat-3acde.firebaseio.com",
+    "project_id": "nossochat-3acde",
+    "storage_bucket": "nossochat-3acde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365985257848:android:1f93653d96504b4e00908d",
+        "android_client_info": {
+          "package_name": "com.nuga.nossochat.nossochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365985257848-5kud36i48pimm89hr82t46k637fqg3th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nuga.nossochat.nossochat",
+            "certificate_hash": "a1ccf18a8e952d8d9e42ae2307ff8c74d41e4f8e"
+          }
+        },
+        {
+          "client_id": "365985257848-j7qipfi8dp0uui914kl1jd4hllbjp8oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIfX617HaP44CR9og_DeenGZIzQQsVMgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365985257848-j7qipfi8dp0uui914kl1jd4hllbjp8oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
